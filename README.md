@@ -81,7 +81,8 @@
 
 ### 网络模型结构图
 
-<img src="https://tutouxiaosu.oss-cn-beijing.aliyuncs.com/img/img/%E7%94%9F%E6%88%90%E5%99%A8%E7%BD%91%E7%BB%9C.png" alt="生成器网络" style="zoom:80%;" />
+![image](https://user-images.githubusercontent.com/77623308/192096890-fca4130d-ecf2-4050-88ff-788c0885e9cc.png)
+
 
 ![编码器网络](https://tutouxiaosu.oss-cn-beijing.aliyuncs.com/img/img/%E7%BC%96%E7%A0%81%E5%99%A8%E7%BD%91%E7%BB%9C.png)
 
